@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Rohit Ramesh Patil (@RohyaPatil)
+# 👋 Hi, I’m Rohit Ramesh Patil (@RohitPatil-it)
 
 🎓 I hold a Master's degree (M.Sc.) in Information Technology  
 💻 I’m passionate about **.NET Software Development** and **SQL Database Development**  
