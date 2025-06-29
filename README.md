@@ -20,9 +20,10 @@
 
 ## 📌 Projects
 
-- **Leave Management System** – ASP.NET MVC project with SQL Server backend  
-- **Word Guessing Game** – Built with C# Web Forms  
-- **Restaurant Management System** – End-to-end CRUD operations using MVC and SQL  
+- **Restaurant Management System** – End-to-end CRUD operations using MVC and SQL
+-  **Word Guessing Game** – Built with C# Web Forms  
+- **Workflow app Management System** – ASP.NET MVC project with SQL Server backend
+- **Impact of ChatGPT on Student's education** -Research Paper
 - **Used Car Price Prediction** – Data analysis & prediction using ML.NET *(basic level)*  
 
 ---
